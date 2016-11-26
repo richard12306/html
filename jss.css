@@ -1,27 +1,15 @@
 .Bodystyle{	background-repeat: no-repeat;
           	overflow: hidden;
-          	background-image: url(旅行1.jpg);
-      		background-size: 100% 290%;
+          	background-image: url(4.jpg);
+      		background-size: 100% 340%;
       		}
-.Welcome{position: relative;
-	    font-size: 100%;
-		color:white;
-		left: 120%;
-	    top:150%;
-	    left: 870px;
-	    top:200px;}
-.Enter{ position: relative;
-		font-size: 120%;
-		color: white;
-		left:870px;
-		top: 120px;}
 .Button{position: relative;
-		left: 870px;
+		left: 890px;
 		top:300px;
 		font-size: 20px;
 		color:white;
 		background-color: green;
-		width:300px;
+		width:265px;
 		height: 50px;
 		border-width: 0px;
 		border-radius: 3px;
@@ -29,14 +17,14 @@
 		background-image: linear-gradient}
 .Visit{	position: relative;
 		color: black;
-		left: 1090px;
-		top: 310px;
+		left: 1050px;
+		top: 320px;
 		font-size: 100%;
 		text-decoration: none;
 	}
 .Form1{	position: relative;
 		top: 250px;
-		left: 870px;
+		left: 890px;
 		width: 200px;
 		height: 50px;
 		display: table-cell;
@@ -46,7 +34,13 @@
 }
 .Form2{	position: relative;
 		top: 260px;
-		left: 870px;
+		left: 890px;
 		height: 50px;
 		width: 200px;
 }
+.Form3{	position: relative;
+		top: 270px;
+		left: 890px;
+		width: 200px;
+		height: 50px;}
+
